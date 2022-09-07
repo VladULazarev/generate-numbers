@@ -10,7 +10,7 @@
 <!-- Rest Api -->
 <div class="content">
 
-    <h1 class="api-header"><span class="fl">R</span>est Api</h1>
+    <h1 class="api-header"><span class="fl">T</span>he App</h1>
 
     <div class="enter-numbers mb-5">
 

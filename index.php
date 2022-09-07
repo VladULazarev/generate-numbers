@@ -21,8 +21,8 @@ Core\Router::getRoute();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#1d2021">
 
-    <title>Rest Api</title>
-    <meta name="description" content="Rest Api">
+    <title>The App</title>
+    <meta name="description" content="The App">
 
     <meta name="author" content="Vlad, https://www.getyoursite.info">
 
